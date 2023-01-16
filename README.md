@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science & Engineering
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on Buiness Analytics projects
-- 📫 How to reach me ...
+- 📫 How to reach me: here or on my LinkedIn: www.linkedin.com/in/yakunat/
 
 <!---
 Yakunat/Yakunat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
